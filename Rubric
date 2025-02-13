@@ -1,0 +1,54 @@
+COSC 302/307: Advanced Data Structures
+Final Project Information (draft)
+The semester project in 302/307 must be performed in groups of size 2 – 4 people. Expectations
+will be adjusted slightly based on team size.
+For this assignment, you will be asked to collaboratively develop a non-trivial program using tools
+and programming skills developed so far at UTK. Examples of such programs might be a video
+game using Unity or Godot, a research topic you are interested in, a tool that performs an
+interesting task related to graphs/networks/data science, etc. Please don’t be constrained by
+these examples; you are encouraged to use your creativity, make it cool and most importantly
+have fun doing it! We expect given the scale of these projects your groups will have to make at
+least one significant data structure and algorithm related decision, but you can use others’
+implementations, e.g., sequence containers in the STL.
+If you developed a project in another class and wish to extend it, please let Dr. Emrich know prior
+to the first due date below.
+Requirements
+1. Adhere to all deadlines listed below. Any deadline not met will result in a grade reduction of
+10% of possible points for that item per day late (no exceptions).
+2. Employ some elements of software engineering practice including:
+• Mandatory: document each team meeting (the date and time of the meeting, who
+was present, what was discussed, what was decided, what tasks were defined and
+who was assigned to each task)
+• Mandatory: log time spent on the project!!
+• Mandatory: you must use at least one data structure and/or algorithm in your
+project. If you would like to use one not covered in 302 please email Dr. Emrich.
+• Mandatory: use an open-source software repository such as Github.
+3. Required documentation for such an open-source project should be included, as well as
+su]icient commenting to aid your instructor and TAs in grading. Many students also will
+share this with recruiters, so assume at least one person will look at the code outside the
+instructors and TAs.
+Deadlines
+• (15 points) February 19, 2025: a 1-page maximum informal project proposal, emailed to Dr.
+Emrich (not emailed to the TAs, not uploaded to Canvas). The proposal should name the
+team members, describe the software to be developed, outline the solution, and list any
+concerns or special needs. You should consider this a proposed contract.
+• February 22, 2025, or earlier: Feedback will be delivered on the proposal. You should
+consider acceptance of your proposed contract an agreement to deliver what you have
+proposed by the end of the semester.
+• (5 points per preliminary report x 2 reports) April 8, April 22: progress reports should be
+emailed to Dr. Emrich, including the complete time log and reports on meetings since the
+last progress report. Even if nothing happened, you need to submit a report saying nothing
+happened; you should also explain why nothing happened.
+• (20 points) April 30th: project demos in the scheduled lab sections. Every individual must
+demonstrate something related to his or her team project in lab. Projects are expected to
+be nearly complete at this stage but could benefit from additional testing.
+• (15 points) BYOS Week! (4/22-4/29) Each team will be expected to generate a 5-7 slide
+PowerPoint presentation that lists the team members, briefly describes a data structure of
+interest, and when it can be applied. These presentations will be done in class.
+• (100 points; includes grade on code) 5/6 (last day of class): Final project reports due via
+email to Dr. Emrich. The project report should contain a user manual for the software that
+describes how to run it.
+• (15 points) May 6th: Release Party! We’ll have food!
+• (10 points) May 11th: Individual reports due via email to Dr. Emrich. Each team member
+should describe their contribution to the project and assess the performance of each of
+their team members.
