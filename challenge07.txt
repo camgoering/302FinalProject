@@ -1,1 +1,51 @@
-Challenge 7 
+Camden Goering - Challenge 7 - Dr. Emrich
+https://github.com/camgoering/302FinalProject/tree/main
+
+Time Log
+- 4 hours (02/19/25) : Started on background of project (the city) while learning basics of navigating and using the tools of Unity. 
+- 3 hours (02/20/25) : Finished background of project, implementing the parallax scrolling effect and infinite loop.
+- 4 hours (03/28/25) : Started one of two car animations and foreground road.
+- 3 hours (03/29/25) : Finished one and started on the other car animation.
+- 2 hours (03/30/25) : Met with group in library and went over what needs to be done.
+- Probably more, creating assets is so time consuming.
+
+Evidence 
+using UnityEngine;
+
+public class ScrollingBackground : MonoBehaviour
+{
+    public float speed = 0.1f;  // Adjust as needed
+    private Renderer quadRenderer;
+    private float textureOffsetX = 0f;
+
+    void Start()
+    {
+        quadRenderer = GetComponent<Renderer>();
+    }
+
+    void Update()
+    {
+        // Move the texture offset
+        textureOffsetX += speed * Time.deltaTime;
+
+        // Reset offset when it reaches 1 (full cycle)
+        if (textureOffsetX >= 1f)
+        {
+            textureOffsetX = 0f;
+        }
+
+        // Apply the offset to the material
+        quadRenderer.material.mainTextureOffset = new Vector2(textureOffsetX, 0);
+    }
+}
+
+I also have assets I have created if you would like to see those.
+
+
+Rubric
++10 : Game works as intended, tracking reflex time and leaderboard scores properly without error.
++10 : Menu is fully functional, allowing the user to easily play, quit, and view leaderboard.
++8  : Game is visually appealing, with pretty title and menu as well as prompts and racing.
++4  : Code is well formatted and understandable.
++4  : Time log is tracked and each group member contributes accordingly.
++4  : Groups members were prompt and efficient, communicating and asking for help when necessary.
