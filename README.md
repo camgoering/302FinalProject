@@ -17,3 +17,5 @@ TO DO:
 - add menu function
 - add title for menu
 - add credit screen?
+- add background music
+- add car noises
