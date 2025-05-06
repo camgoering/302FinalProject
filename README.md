@@ -16,4 +16,4 @@ Known Bugs:
 
 1. There is a slight stutter between scene changes
 2. The engine sound played when shifting gears is too long, so when the gear shift happens the sound isn't matched after the first shift.
-3. For higher resolutions above 1920px1080p the starting countdown animation is visible at the bottom of the screen.
+3. There is a small amount of missing pixels on the highway background.
