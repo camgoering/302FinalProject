@@ -5,8 +5,11 @@ Camden Goering
 - 4 hours (02/19/25) : Started on background of project (the city) while learning basics of navigating and using the tools of Unity. 
 - 3 hours (02/20/25) : Finished background of project, implementing the parallax scrolling effect and infinite loop.
 
-Nick Rich
-- 
+Nicholas Rich
+- 4 hours: (Early april): Made a spinner skill check in a image making tool and coded it to spin while learning unity. We didn't end up using this though so the commit got reversed.
+- 5 hours: (5/6/25): Found audio clips, edited them, made the SoundManager script and added audio to the game.
+- 5 hours: (5/6/25): Redid the ReactionManager script to fix visual animation bugs, fixed multiple bugs such as the highways spawning multiple times. Final touches of project.
+- 1 hour: (5/8/25): Made the runnable application and added it to the github.
 
 Pablo Storch
 - 
@@ -16,3 +19,38 @@ Peter Wraith
 - 3 hours (4/28/25) : Researched how to build unity leaderboard and started
 - 3 hours (4/29/25) : Continued to work on leaderboard, figuring out issues
 - 5 hours (4/30/25) : Scrapped leaderboard and rebuilt. Mostly finished but had one bug
+
+Old commit history that got deleted on 5/6/25: 
+
+bd6cd00 - nrich8, 9 minutes ago : fixed build folder issue and bugs in code
+12e931c - nrich8, 14 minutes ago : Fixed highways not destroying properly and animation timings. Added build file.
+9f1f27e - Camden, 50 minutes ago : final touches
+4ccb95d - nrich8, 2 hours ago : Update README.md
+45619be - nrich8, 2 hours ago : Update README.md
+1d31b61 - nrich8, 2 hours ago : Update README.md
+0418686 - nrich8, 2 hours ago : Update README.md
+7dca091 - nrich8, 3 hours ago : Removed redundant code in AudioManager and ReactionManager. Added descriptive comments for each script. Made the quit button functional. Lastly created the build in the Build folder.
+76be5c9 - nrich8, 8 hours ago : Added audio tot he game with the AudioManager script. Also reworked the ReactionManager to fix the visual issues.
+1b99907 - Durza14, 15 hours ago : Fixed leaderboard to add new scores instead of updating, also limits to 3 characters
+978b2f2 - Camden, 22 hours ago : cars added
+533e521 - Durza14, 2 days ago : fixed game over positioning and looked at leaderboard
+42185a5 - Camden, 4 days ago : scene transitions and highway
+73a8ec7 - peterwraith, 5 days ago : stuff
+c913338 - Camden, 5 days ago : adjust leaderboard and gameover
+160f4dd - peterwraith, 7 days ago : leaderboard work
+d239f99 - peterwraith, 8 days ago : stuff
+1bd75c5 - peterwraith, 8 days ago : Backtrack
+0cff3c3 - peterwraith, 8 days ago : update
+ed76b9a - peterwraith, 8 days ago : started leaderboard
+68eb002 - Camden, 2 weeks ago : made several key improvements
+a487653 - Camden, 5 weeks ago : updated background
+609017a - Camden Goering, 8 weeks ago : Update README.md
+52ac472 - Camden, 2 months ago : Initial commit - Linked Unity project 'Reflex Racer'
+d73d21a - Camden, 2 months ago : Renamed solution file to match project folder
+81fd8f0 - Camden, 2 months ago : Added .gitignore to ignore unnecessary Unity files
+649e97d - Camden, 2 months ago : Linked repo and added Unity project
+6f073ff - Camden Goering, 2 months ago : Create time_log
+c0d0cdb - Camden Goering, 3 months ago : Update README.md
+0a25e6f - Camden Goering, 3 months ago : Create Rubric
+db1e15d - Camden Goering, 3 months ago : Update README.md
+9f892e4 - Camden Goering, 3 months ago : Initial commit
