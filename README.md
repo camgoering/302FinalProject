@@ -3,6 +3,7 @@ Final Project for Dr. Emrich's COSC302 class
 Created by: Camden Goering, Pablo Storch, Peter Wraith, Nicholas Rich
 
 Note: I didn't know making a new main branch and transferring the files over was going to delete commit history, but I was able to recover a text log of it so I added it to time log section. -Nicholas Rich
+
 Note: Code is located in the Assets/Scripts folder.
 
 
