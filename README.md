@@ -7,11 +7,10 @@ Note: I didn't know making a new main branch and transferring the files over was
 
 User Manual:
 
-  1. To run our game navigate to the "Build" folder and run the "302 Final Project" application.
-
-  2. From there you are introduced to the menu screen and can choose between "PLAY" which brings you to the game, "LEADERBOARD" which shows statistics on the top ten lowest reaction times, or "QUIT" which exits the game.
-
-  3. To play our game, a pop-up will appear on the screen 5 times in one game prompting users to press the spacebar as soon as the popup appears to gage reaction speed. The total time of their reaction speed is added up for a total time at the end of the game. The results can then be submitted to the leaderboard after a name is entered and the neter key is pressed. Only the top 10 reactions speeds will be posted on the leaderboard. From the end game screen, you can choose to play again, look at the leaderboard, or quit the game.
+  1. To run our game download the Build.zip file from this link: https://drive.google.com/file/d/19rADcPJjucV3VxUDQPXoTYMU2FeNqA-9/view?usp=drive_link
+  2. After downloading the file extract it, then open it and run "302 Final Project.exe".
+  3. From there you are introduced to the menu screen and can choose between "PLAY" which brings you to the game, "LEADERBOARD" which shows statistics on the top ten lowest reaction times, or "QUIT" which exits the game.
+  4. To play our game, a pop-up will appear on the screen 5 times in one game prompting users to press the spacebar as soon as the popup appears to gage reaction speed. The total time of their reaction speed is added up for a total time at the end of the game. The results can then be submitted to the leaderboard after a name is entered and the neter key is pressed. Only the top 10 reactions speeds will be posted on the leaderboard. From the end game screen, you can choose to play again, look at the leaderboard, or quit the game.
 
 
 Known Bugs:
