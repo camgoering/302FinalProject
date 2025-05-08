@@ -4,6 +4,13 @@ TIME LOG
 Camden Goering
 - 4 hours (02/19/25) : Started on background of project (the city) while learning basics of navigating and using the tools of Unity. 
 - 3 hours (02/20/25) : Finished background of project, implementing the parallax scrolling effect and infinite loop.
+- 6 hours (03/09/25) : Created highway and car sprites.
+- 4 hours (03/10/25) : Animated car sprites.
+- 5 hours (03/23/25) : Implemented main menu, game, gameover, and leaderboard scenes.
+- 3 hours (04/20/25) : Worked on smoothing out scenes and adding reaction manager.
+- 2 hours (05/02/25) : Worked on leaderboard function.
+- 8 hours (05/03/25) : Worked on adding in scene transitions for each button pressed, race countdown, leaderboard, etc.
+- 2 hours (05/05/25) : Added final touches on car transitions and game mechanics.
 
 Nicholas Rich
 - 4 hours: (Early april): Made a spinner skill check in a image making tool and coded it to spin while learning unity. We didn't end up using this though so the commit got reversed.
